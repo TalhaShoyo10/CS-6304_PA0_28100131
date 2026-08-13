@@ -1,1 +1,25 @@
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
 
+# Datasets (all will be downloaded fresh using torchvision on Colab, so no need to track)
+data/
+*.tar.gz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz
+report/*.pdf
+
+# OS/editor cruft
+.DS_Store
+.vscode/
