@@ -1,0 +1,13 @@
+{
+  "zero_shot_accuracy_by_prompt": {
+    "plain_labels": 0.962625,
+    "a_photo_of_a": 0.973625,
+    "descriptive": 0.957375
+  },
+  "centroid_gap_before_alignment": 1.0439453125,
+  "centroid_gap_after_alignment": 0.14104175567626953,
+  "best_prompting_strategy": "a_photo_of_a",
+  "accuracy_before_alignment": 0.973625,
+  "accuracy_after_alignment": 0.971375,
+  "num_samples_for_modality_gap": 100
+}
