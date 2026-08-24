@@ -1,0 +1,14 @@
+{
+  "checkpoint": "google/vit-base-patch16-224",
+  "predictions": {
+    "cats_on_couch": {
+      "predicted_label": "Egyptian cat",
+      "confidence": 0.9374894499778748
+    },
+    "dog": {
+      "predicted_label": "Samoyed, Samoyede",
+      "confidence": 0.696010410785675
+    }
+  },
+  "patch_grid_size": 14
+}
